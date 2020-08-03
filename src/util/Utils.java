@@ -15,18 +15,16 @@ public class Utils {
 	public static Font gramond_20 = new Font("Garamond", style, 20);
 	public static Font gramond_15 = new Font("Garamond", style, 15);
 	
+	/**
+	 * Paleta de Cores 
+	 * 
+     */
+	
 	public static Color bege = new Color(231,223,213);
 	public static Color verde = new Color(132,169,172);
 	public static Color azul = new Color(59,105,120);
 	public static Color Azul_esc = new Color(32,64,81);
 	
 	
-	/**
-	 * Cores 
-	 * BEGE  rgb(231,223,213)
-	 * VERDE  rgb(132,169,172)
-	 * AZUL   rgb(59,105,120)
-	 * AZUL_ESCURO rgb(32,64,81)
-	 * 
-	 */
+	
 }
